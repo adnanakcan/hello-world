@@ -1,0 +1,2 @@
+# hello-world
+Merhaba dünya programı, görsel bir arayüz veya komut satırında "Merhaba dünya!" yazdıran bilgisayar programıdır. Bunun amacı, yeni öğrenilen programlama dilinde basit bir yazı yazmak ve programlama mantığını anlatmaktır. Ayrıca C dilini bulan Dennis Ritchie'nin C dilini ilk olarak    #include &lt;stdio.h>    int main()    {      printf("Hello World\n");      return 0;    } bu kod ile dünyaya tanıtmasından dolayı, kodlamaya Hello World ile başlamak gelenek haline gelmiştir.
